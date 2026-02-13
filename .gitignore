@@ -1,0 +1,15 @@
+# Executables
+*.exe
+
+# Object files
+*.obj
+*.o
+
+# Debug files
+*.pdb
+*.ilk
+
+# Visual Studio
+*.vcxproj*
+Debug/
+Release/
